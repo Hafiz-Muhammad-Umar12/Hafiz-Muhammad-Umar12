@@ -4,6 +4,16 @@
 <h1 align="center">Hey 👋, I'm Hafiz Muhammad Umar</h1>
 <h3 align="center">🤖 Agentic AI Developer | OpenAI SDK Expert | Python & Full-Stack Engineer</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=58A6FF&center=true&vCenter=true&width=600&lines=Agentic+AI+Engineer;Backend+Systems+Developer;Full+Stack+Architect;Building+AI+Native+Systems" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hafiz-muhammad-umar12&show_icons=true&theme=github_dark&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hafiz-muhammad-umar12&theme=github-dark&hide_border=true" height="160"/>
+</p>
+
+---
 <!-- <p align="center">
   <img src="<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/5fe69815-30cd-4761-905b-7173d1e791a3" />
 " width="450" alt="AI Developer Coding">
