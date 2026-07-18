@@ -442,8 +442,6 @@ An autonomous support agent that handles customer queries end-to-end — underst
 
 </div>
 
-> Add issue dates and verification links once available.
-
 <br/>
 
 ## `12` Current Research
