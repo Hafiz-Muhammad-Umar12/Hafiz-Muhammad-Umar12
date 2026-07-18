@@ -446,25 +446,6 @@ An autonomous support agent that handles customer queries end-to-end — underst
 
 <br/>
 
-## `11` &nbsp;GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=C9D1D9" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9" height="165"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00E5FF&line=00E5FF&point=FFFFFF" width="100%"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR-GITHUB-USERNAME&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" width="100%"/>
-
-</div>
-
-> 🐍 Snake contribution animation placeholder — generate via the `github-contribution-grid-snake` GitHub Action and embed the resulting SVG here once set up.
-
-<br/>
-
 ## `12` Current Research
 
 - 🔬 **AI-Native Companies**
